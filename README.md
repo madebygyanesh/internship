@@ -1,5 +1,3 @@
-# 🔌 JTAG Pin Identifier
-
 **Internship Project – 12 Weeks Development Program**  
 
 📍 **Institution**: K.J. Somaiya School/College of Engineering (KJSCE)  
@@ -11,7 +9,7 @@
 
 ## 🎯 Project Overview  
 
-This project is a **hardware-modified JTAG pin identification device** based on the open-source **BlueTAG firmware** for Raspberry Pi Pico.  
+This project is a **hardware-modified JTAG pin identification device** based on the open-source **[BlueTAG firmware](https://github.com/Aodrulez/blueTag)** for Raspberry Pi Pico.  
 It transforms the software-based solution into a **dedicated hardware implementation**, designed during a **12-week internship program** at **K.J. Somaiya School/College of Engineering (KJSCE)**.  
 
 ✔️ **Goal**: Enhance the accuracy and reliability of JTAG interface detection and pin identification.  
@@ -36,7 +34,7 @@ It transforms the software-based solution into a **dedicated hardware implementa
 - 🖥 Raspberry Pi Pico Integration – Lightweight, reliable MCU platform  
 - 🎯 Enhanced Accuracy – Hardware detection for improved reliability  
 - 📦 Portable Form Factor – Compact and practical device  
-- 🔗 BlueTAG Compatibility – Fully based on proven BlueTAG firmware  
+- 🔗 BlueTAG Compatibility – Fully based on proven [BlueTAG firmware](https://github.com/Aodrulez/blueTag)  
 
 ---
 
@@ -58,7 +56,7 @@ It transforms the software-based solution into a **dedicated hardware implementa
 - 🛠 Hardware Development: madeby.gyanesh (AIAKRP)  
 
 ### Firmware Attribution  
-- 🔹 BlueTAG Project – Open-source firmware (GitHub)  
+- 🔹 [BlueTAG Project – GitHub Repository](https://github.com/Aodrulez/blueTag)  
 - 🔹 Inspiration – Derived from JTAGULATOR concepts  
 - 🔹 Authors – Full credit to the BlueTAG development team  
 
@@ -66,7 +64,7 @@ It transforms the software-based solution into a **dedicated hardware implementa
 
 ## 🔗 References and Resources  
 
-- 📂 BlueTAG Repository: GitHub - BlueTAG  
+- 📂 [BlueTAG Repository](https://github.com/Aodrulez/blueTag)  
 - 📘 Raspberry Pi Pico Docs: Official Documentation  
 - 🛠 JTAGULATOR – Original inspiration  
 
@@ -80,7 +78,7 @@ It transforms the software-based solution into a **dedicated hardware implementa
 - 🛠 Hardware Focus – Enhancing BlueTAG with a dedicated hardware design  
 
 ### Attribution Clarity  
-- 🖥 Firmware – Credit to BlueTAG authors  
+- 🖥 Firmware – Credit to [BlueTAG authors](https://github.com/Aodrulez/blueTag)  
 - 🛠 Hardware – Designed by madeby.gyanesh (AIAKRP)  
 - 👨‍🏫 Supervision – By Midhya Mathew (KJSCE)  
 
@@ -107,14 +105,14 @@ The developer is **NOT RESPONSIBLE** for any damages or misuse.
 - 👨‍🏫 Academic Supervision: Midhya Mathew (KJSCE)  
 - 🛠 Hardware Developer: madeby.gyanesh (AIAKRP)  
 - 🏫 Developer’s Institution: Anjuman-I-Islam Abdul Razzak Kalsekar Polytechnic, Panvel  
-- 📂 Firmware Support: Please refer to BlueTAG GitHub repository  
+- 📂 Firmware Support: Please refer to the [BlueTAG GitHub repository](https://github.com/Aodrulez/blueTag)  
 
 ---
 
 ## 📄 License  
 
 This project follows the **original BlueTAG license terms**.  
-Refer to the **BlueTAG GitHub repository** for details.  
+Refer to the [BlueTAG GitHub repository](https://github.com/Aodrulez/blueTag) for details.  
 
 ---
 
