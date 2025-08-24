@@ -64,3 +64,33 @@ By using this project, you **agree to comply** with this license.
 - Developer: Gyanesh Maurya – *madeby.gyanesh@gmail.com*  
 - Institution: K.J. Somaiya School of Engineering  
 
+---
+
+## ADDITIONAL AI/ML RESTRICTIONS:
+Use of this repository’s content for the purpose of training, fine-tuning, 
+or improving artificial intelligence (AI), machine learning (ML), or large 
+language models (LLMs) is strictly prohibited without explicit written 
+permission from KJSCE, Midhya Mathew, or Gyanesh Maurya.
+
+----
+
+
+## NO AI TRAINING LICENSE
+The contents of this repository (code, documentation, hardware design files, images, or any other data)
+MAY NOT be used for training, fine-tuning, or improving any Artificial Intelligence (AI), 
+Machine Learning (ML), or Large Language Models (LLMs).
+
+This includes commercial or non-commercial AI systems.
+
+Exception: Explicit written permission is granted only if authorized by 
+K.J. Somaiya School of Engineering (KJSCE), 
+Midhya Mathew (midhya@somaiya.edu), or 
+Gyanesh Maurya (madeby.gyanesh@gmail.com).
+
+
+
+---
+
+
+
+
