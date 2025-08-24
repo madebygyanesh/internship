@@ -1,128 +1,124 @@
-📍 Institution: K.J. Somaiya School/College of Engineering (KJSCE)
-👨‍🏫 Project Guidance: Midhya Mathew (KJSCE)
-🛠 Hardware Development: madeby.gyanesh (AIAKRP)
-🏫 Hardware Developer’s Institution: Anjuman-I-Islam Abdul Razzak Kalsekar Polytechnic, Panvel
+# 🔌 JTAG Pin Identifier
 
-🎯 Project Overview
+**Internship Project – 12 Weeks Development Program**  
 
-This project is a hardware-modified JTAG pin identification device based on the open-source BlueTAG firmware for Raspberry Pi Pico.
-It transforms the software-based solution into a dedicated hardware implementation, designed during a 12-week internship program at K.J. Somaiya School/College of Engineering (KJSCE).
+📍 **Institution**: K.J. Somaiya School/College of Engineering (KJSCE)  
+👨‍🏫 **Project Guidance**: Midhya Mathew (KJSCE)  
+🛠 **Hardware Development**: madeby.gyanesh (AIAKRP)  
+🏫 **Hardware Developer’s Institution**: Anjuman-I-Islam Abdul Razzak Kalsekar Polytechnic, Panvel  
 
-✔️ Goal: Enhance the accuracy and reliability of JTAG interface detection and pin identification.
-✔️ Approach: Hardware-based modification and optimization of proven BlueTAG firmware.
+---
 
-🏫 Academic Development
+## 🎯 Project Overview  
 
-Internship Details:
+This project is a **hardware-modified JTAG pin identification device** based on the open-source **BlueTAG firmware** for Raspberry Pi Pico.  
+It transforms the software-based solution into a **dedicated hardware implementation**, designed during a **12-week internship program** at **K.J. Somaiya School/College of Engineering (KJSCE)**.  
 
-📅 Development Period: 12 Weeks
+✔️ **Goal**: Enhance the accuracy and reliability of JTAG interface detection and pin identification.  
+✔️ **Approach**: Hardware-based modification and optimization of proven BlueTAG firmware.  
 
-🏫 Academic Institution: K.J. Somaiya School/College of Engineering
+---
 
-👨‍🏫 Project Supervisor: Midhya Mathew
+## 🏫 Academic Development  
 
-🛠 Hardware Developer: madeby.gyanesh
+**Internship Details**  
+- 📅 **Development Period**: 12 Weeks  
+- 🏫 **Academic Institution**: K.J. Somaiya School/College of Engineering  
+- 👨‍🏫 **Project Supervisor**: Midhya Mathew  
+- 🛠 **Hardware Developer**: madeby.gyanesh  
+- 🎓 **Developer’s Home Institution**: Anjuman-I-Islam Abdul Razzak Kalsekar Polytechnic, Panvel (AIAKRP)  
 
-🎓 Developer’s Home Institution: Anjuman-I-Islam Abdul Razzak Kalsekar Polytechnic, Panvel (AIAKRP)
+---
 
-📋 Hardware Features
+## 📋 Hardware Features  
 
-🔧 Custom Hardware Design – Purpose-built for JTAG pin identification
+- 🔧 Custom Hardware Design – Purpose-built for JTAG pin identification  
+- 🖥 Raspberry Pi Pico Integration – Lightweight, reliable MCU platform  
+- 🎯 Enhanced Accuracy – Hardware detection for improved reliability  
+- 📦 Portable Form Factor – Compact and practical device  
+- 🔗 BlueTAG Compatibility – Fully based on proven BlueTAG firmware  
 
-🖥 Raspberry Pi Pico Integration – Lightweight, reliable MCU platform
+---
 
-🎯 Enhanced Accuracy – Hardware detection for improved reliability
+## 🔧 Technical Specifications  
 
-📦 Portable Form Factor – Compact and practical device
+- **Platform**: Raspberry Pi Pico  
+- **Function**: JTAG Pin Identification & Detection  
+- **Design**: Hardware-modified implementation of BlueTAG firmware  
+- **Target**: Increased accuracy & usability for debugging and reverse engineering  
 
-🔗 BlueTAG Compatibility – Fully based on proven BlueTAG firmware
+---
 
-🔧 Technical Specifications
+## 📚 Credits and Acknowledgments  
 
-Platform: Raspberry Pi Pico
+### Primary Project Credits  
+- 👨‍🏫 Guidance: Midhya Mathew (KJSCE)  
+- 🏫 Institution (Internship): K.J. Somaiya School/College of Engineering  
+- 🏫 Institution (Developer): Anjuman-I-Islam Abdul Razzak Kalsekar Polytechnic, Panvel  
+- 🛠 Hardware Development: madeby.gyanesh (AIAKRP)  
 
-Function: JTAG Pin Identification & Detection
+### Firmware Attribution  
+- 🔹 BlueTAG Project – Open-source firmware (GitHub)  
+- 🔹 Inspiration – Derived from JTAGULATOR concepts  
+- 🔹 Authors – Full credit to the BlueTAG development team  
 
-Design: Hardware-modified implementation of BlueTAG firmware
+---
 
-Target: Increased accuracy & usability for debugging and reverse engineering
+## 🔗 References and Resources  
 
-📚 Credits and Acknowledgments
+- 📂 BlueTAG Repository: GitHub - BlueTAG  
+- 📘 Raspberry Pi Pico Docs: Official Documentation  
+- 🛠 JTAGULATOR – Original inspiration  
 
-Primary Project Credits
+---
 
-👨‍🏫 Guidance: Midhya Mathew (KJSCE)
+## ⚠️ Important Notes  
 
-🏫 Institution (Internship): K.J. Somaiya School/College of Engineering
+### Development Context  
+- 🏫 Academic Project – 12-week internship (KJSCE)  
+- 🎓 Educational Purpose – Guided by faculty supervisor  
+- 🛠 Hardware Focus – Enhancing BlueTAG with a dedicated hardware design  
 
-🏫 Institution (Developer): Anjuman-I-Islam Abdul Razzak Kalsekar Polytechnic, Panvel
+### Attribution Clarity  
+- 🖥 Firmware – Credit to BlueTAG authors  
+- 🛠 Hardware – Designed by madeby.gyanesh (AIAKRP)  
+- 👨‍🏫 Supervision – By Midhya Mathew (KJSCE)  
 
-🛠 Hardware Development: madeby.gyanesh (AIAKRP)
+---
 
-Firmware Attribution
+## ⚠️ Disclaimer  
 
-🔹 BlueTAG Project – Open-source firmware (GitHub)
+The developer is **NOT RESPONSIBLE** for any damages or misuse.  
 
-🔹 Inspiration – Derived from JTAGULATOR concepts
+- ⚡ Use at your own risk.  
+- ⚡ User assumes full responsibility for device operation.  
 
-🔹 Authors – Full credit to the BlueTAG development team
+---
 
-🔗 References and Resources
+## 📄 Documentation  
 
-📂 BlueTAG Repository: GitHub - BlueTAG
+- 📘 Usage Instructions – Provided in separate docs  
+- ⚙️ Technical Manual – Available as PDF documentation  
 
-📘 Raspberry Pi Pico Docs: Official Documentation
+---
 
-🛠 JTAGULATOR – Original inspiration
+## 📧 Contact  
 
-⚠️ Important Notes
-Development Context
+- 👨‍🏫 Academic Supervision: Midhya Mathew (KJSCE)  
+- 🛠 Hardware Developer: madeby.gyanesh (AIAKRP)  
+- 🏫 Developer’s Institution: Anjuman-I-Islam Abdul Razzak Kalsekar Polytechnic, Panvel  
+- 📂 Firmware Support: Please refer to BlueTAG GitHub repository  
 
-🏫 Academic Project – 12-week internship (KJSCE)
+---
 
-🎓 Educational Purpose – Guided by faculty supervisor
+## 📄 License  
 
-🛠 Hardware Focus – Enhancing BlueTAG with a dedicated hardware design
+This project follows the **original BlueTAG license terms**.  
+Refer to the **BlueTAG GitHub repository** for details.  
 
-Attribution Clarity
+---
 
-🖥 Firmware – Credit to BlueTAG authors
+## ✅ Project Summary  
 
-🛠 Hardware – Designed by madeby.gyanesh (AIAKRP)
-
-👨‍🏫 Supervision – By Midhya Mathew (KJSCE)
-
-⚠️ Disclaimer
-
-The developer is NOT RESPONSIBLE for any damages or misuse.
-
-⚡ Use at your own risk.
-
-⚡ User assumes full responsibility for device operation.
-
-📄 Documentation
-
-📘 Usage Instructions – Provided in separate docs
-
-⚙️ Technical Manual – Available as PDF documentation
-
-📧 Contact
-
-👨‍🏫 Academic Supervision: Midhya Mathew (KJSCE)
-
-🛠 Hardware Developer: madeby.gyanesh (AIAKRP)
-
-🏫 Developer’s Institution: Anjuman-I-Islam Abdul Razzak Kalsekar Polytechnic, Panvel
-
-📂 Firmware Support: Please refer to BlueTAG GitHub repository
-
-📄 License
-
-This project follows the original BlueTAG license terms.
-Refer to the BlueTAG GitHub repository
- for details.
-
-✅ Project Summary
-
-This project is a hardware adaptation of the BlueTAG JTAG identification system, developed during a 12-week internship at KJSCE under the guidance of Midhya Mathew.
-The hardware design and implementation were carried out by madeby.gyanesh (AIAKRP) from Anjuman-I-Islam Abdul Razzak Kalsekar Polytechnic, Panvel.
+This project is a **hardware adaptation of the BlueTAG JTAG identification system**, developed during a **12-week internship at KJSCE** under the guidance of **Midhya Mathew**.  
+The hardware design and implementation were carried out by **madeby.gyanesh (AIAKRP)** from **Anjuman-I-Islam Abdul Razzak Kalsekar Polytechnic, Panvel**.  
